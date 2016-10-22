@@ -5,5 +5,3 @@ libffmpeg - ffmpeg source and build script
 jni/libffmpeg/ - prebuilt static library of libffmpeg
 jni/libffmpeg.c - source for libffmpeg.so
 jni/demo.c - demo source
-
-2012.07.23
